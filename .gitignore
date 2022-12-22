@@ -8,3 +8,21 @@ __pycache__/
 .ipynb_checkpoints/
 
 Run.ipynb
+EmbeddingKmeans.ipynb
+Embeddings.ipynb
+EmbeddingsJoint.ipynb
+index.csv
+pixelCNN.py
+samples_0.png
+samples_1.png
+samples_2.png
+samples_3.png
+samples_4.png
+samples_5.png
+samples_6.png
+samples_7.png
+samples_8.png
+samples_9.png
+schedulers.py
+VQVAE.ipynb
+configs/ae.yaml
